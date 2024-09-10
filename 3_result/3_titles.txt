@@ -1,0 +1,158 @@
+Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
+A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization
+GraphBTM: Graph Enhanced Autoencoded Variational Inference for Biterm Topic Model
+NEURAL FINE-GRAINED ENTITY TYPE CLASSIFICATION WITH HIERARCHY-AWARE LOSS
+NESTED NAMED ENTITY RECOGNITION REVISITED
+KagNet: Learning to Answer Commonsense Questions with Knowledge-Aware Graph Networks
+Description-Based Zero-shot Fine-Grained Entity Typing
+Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss
+Enhancing AMR-to-Text Generation with Dual Graph Representations
+Referring Expression Generation Using Entity Profiles
+Benchmarking Hierarchical Script Knowledge
+Similarity Based Auxiliary Classifier for Named Entity Recognition
+A Non-commutative Bilinear Model for Answering Path Queries in Knowledge Graphs
+LABEL-AWARE DOUBLE TRANSFER LEARNING FOR CROSS SPECIALTY MEDICAL NAMED ENTITY RECOGNITION
+KBGAN: ADVERSARIAL LEARNING FOR KNOWLEDGE GRAPH EMBEDDINGS
+Jointly Learning Entity and Relation Representations for Entity Alignment
+IMPROVE NEURAL ENTITY RECOGNITION VIA MULTI-TASK DATA SELECTION AND CONSTRAINED DECODING
+Modeling Graph Structure in Transformer for Better AMR-to-Text Generation
+CrossWeigh: Training Named Entity Tagger from Imperfect Annotations
+Reviews Meet Graphs: Enhancing User and Item Representations for Recommendation with Hierarchical Attentive Graph Neural Network
+NEURAL TEXT GENERATION IN STORIES USING ENTITY REPRESENTATIONS AS CONTEXT
+Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning
+Dependency-Guided LSTM-CRF for Named Entity Recognition
+Knowledge Aware Conversation Generation with Explainable Reasoning on Augmented Graphs
+Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks
+DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning
+Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model
+Towards Knowledge-Based Recommender Dialog System
+Learning to Bootstrap for Entity Set Expansion
+Enhancing Neural Data-To-Text Generation Models with External Background Knowledge
+Collaborative Policy Learning for Open Knowledge Graph Reasoning
+Biomedical Event Extraction based on Knowledge-driven Tree-LSTM
+EntEval: A Holistic Evaluation Benchmark for Entity Representations
+MULTIMODAL NAMED ENTITY RECOGNITION FOR SHORT SOCIAL MEDIA POSTS
+Learning to Update Knowledge Graph by Reading News
+Learning Sequence Encoders for Temporal Knowledge Graph Completion
+A Knowledge Regularized Hierarchical Approach for Emotion Cause Analysis
+Effective Use of Transformer Networks for Entity Tracking
+CaRe: Open Knowledge Graph Embeddings
+IMPLICIT ARGUMENT PREDICTION WITH EVENT KNOWLEDGE
+A Lexicon-Based Graph Neural Network for Chinese NER
+A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers
+Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
+VARIATIONAL KNOWLEDGE GRAPH REASONING
+Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations
+A Boundary-aware Neural Model for Nested Named Entity Recognition
+KnowledgeNet: A Benchmark Dataset for Knowledge Base Population
+TuckER: Tensor Factorization for Knowledge Graph Completion
+Bridging Knowledge Gaps in Neural Entailment via Symbolic Models
+Fine-Grained Evaluation for Entity Linking
+ZERO-SHOT QUESTION GENERATION FROM KNOWLEDGE GRAPHS FOR UNSEEN PREDICATES AND ENTITY TYPES
+Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
+Chinese Named Entity Recognition using Featured Embeddings and Attention Mechanism
+TYPESQL: KNOWLEDGE-BASED TYPE-AWARE NEURAL TEXT-TO-SQL GENERATION
+Patient Knowledge Distillation for BERT Model Compression
+Learning Dynamic Context Augmentation for Global Entity Linking
+DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs
+Better Modeling of Incomplete Annotations for Named Entity Recognition
+DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation
+Learning to Denoise Distantly-Labeled Data for Entity Typing
+Effective Use of Context in Noisy Entity Linking
+Discovering Implicit Knowledge with Unary Relations
+Multi-Channel Graph Neural Network for Entity Alignment
+Semi-supervised User Geolocation via Graph Convolutional Networks
+Towards Understanding the Geometry of Knowledge Graph Embeddings
+On the Strength of Character Language Models for Multilingual Named Entity Recognition
+Entity Tracking Improves Cloze-style Reading Comprehension
+A MORE SUITABLE DEEP LEARNING APPROACH FOR NAMED ENTITY RECOGNITION ON SOCIAL MEDIA DATA
+A NEURAL LAYERED MODEL FOR NESTED NAMED ENTITY RECOGNITION
+COMET: Commonsense Transformers for Automatic Knowledge Graph Construction
+A NOVEL EMBEDDING MODEL FOR KNOWLEDGE BASE COMPLETION BASED ON CONVOLUTIONAL NEURAL NETWORK
+Linguistic Knowledge and Transferability of Contextual Representations
+Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking
+Embedding Multimodal Relational Data for Knowledge Base Completion
+Multi-Task Identification of Entities, Relations, and Coreference for Scientific Knowledge Graph Construction
+Multi-Hop Knowledge Graph Reasoning with Reward Shaping
+Text Generation from Knowledge Graphs
+ACCURATE TEXT-ENHANCED KNOWLEDGE GRAPH REPRESENTATION LEARNING
+ELDEN: IMPROVED ENTITY LINKING USING DENSIFIED KNOWLEDGE GRAPHS
+Building Context-aware Clause Representations for Situation Entity Type Classification
+A Neural Transition-based Model for Nested Mention Recognition
+Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition
+LinkNBed: Multi-Graph Representation Learning with Entity Linkage
+Put It Back: Entity Typing with Language Model Enhancement
+Generating Fine-Grained Open Vocabulary Entity Type Descriptions
+Dynamically Fused Graph Network for Multi-hop Reasoning
+Deep Exhaustive Model for Nested Named Entity Recognition
+Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation
+Annotation of a Large Clinical Entity Corpus
+HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding
+Zero-Shot Open Entity Typing as Type-Compatible Grounding
+Practical, Efficient, and Customizable Active Learning for Named Entity Recognition in the Digital Humanities
+Improving Knowledge Graph Embedding Using Simple Constraints
+A State-transition Framework to Answer Complex Questions over Knowledge Base
+Regular Expression Guided Entity Mention Mining from Noisy Web Data
+Differentiating Concepts and Instances for Knowledge Graph Embedding
+Mapping Text to Knowledge Graph Entities using Multi-Sense LSTMs
+Pooled Contextualized Embeddings for Named Entity Recognition
+A Knowledge Hunting Framework for Common Sense Reasoning
+Revisiting Joint Modeling of Cross-document Entity and Event Coreference Resolution
+PoMo: Generating Entity-Specific Post-Modifiers in Context
+Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval
+Ranking and Selecting Multi-Hop Knowledge Paths to Better Predict Human Needs
+Towards Exploiting Background Knowledge for Building Conversation Systems
+Coherent Comments Generation for Chinese Articles with a Graph-to-Sequence Model
+OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs
+On Knowledge distillation from complex networks for response prediction
+Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text
+Neural Transition Based Parsing of Web Queries: An Entity Based Approach
+Course Concept Expansion in MOOCs with External Knowledge and Interactive Game
+AutoML strategy based on grammatical evolution: A case study about knowledge discovery from text
+Marginal Likelihood Training of BiLSTM-CRF for Biomedical Named Entity Recognition from Disjoint Label Sets
+Multimodal Named Entity Disambiguation for Noisy Social Media Posts
+Integration of Knowledge Graph Embedding Into Topic Modeling with Hierarchical Dirichlet Process
+Entity Linking within a Social Media Platform: A Case Study on Yelp
+Retrieval of the Best Counterargument without Prior Topic Knowledge
+Entity-Centric Joint Modeling of Japanese Coreference Resolution and Predicate Argument Structure Analysis
+Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism
+Fact Discovery from Knowledge Base via Facet Decomposition
+Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing
+Extending Neural Generative Conversational Model using External Knowledge Sources
+A Graph-to-Sequence Model for AMR-to-Text Generation
+Dating Documents using Graph Convolution Networks
+Graph-to-Sequence Learning using Gated Graph Neural Networks
+Improving Distantly-supervised Entity Typing with Compact Latent Space Clustering
+Generating Logical Forms from Graph Representations of Text and Entities
+Multi-grained Named Entity Recognition
+Data-to-text Generation with Entity Modeling
+Incorporating Background Knowledge into Video Description Generation
+Entity-aware Image Caption Generation
+Graph Pattern Entity Ranking Model for Knowledge Graph Completion
+Knowledge-aware Pronoun Coreference Resolution
+Entity-Centric Contextual Affective Analysis
+Generating Knowledge Graph Paths from Textual Definitions using Sequence-to-Sequence Models
+What do entity-centric models learn? Insights from entity linking in multi-party dialogue
+GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification
+Boosting Entity Linking Performance by Leveraging Unlabeled Documents
+Distant Learning for Entity Linking with Automatic Noise Detection
+Knowledge Diffusion for Neural Dialogue Generation
+SQL-to-Text Generation with Graph-to-Sequence Model
+A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy
+Zero-Shot Entity Linking by Reading Entity Descriptions
+Entity Recognition at First Sight: Improving NER with Eye Movement Information
+Improving Entity Linking by Modeling Latent Relations between Mentions
+Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures
+COLLECTIVE ENTITY DISAMBIGUATION WITH STRUCTURED GRADIENT TREE BOOSTING
+Ultra-Fine Entity Typing
+Reasoning about Actions and State Changes by Injecting Commonsense Knowledge
+Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach
+Enhance Topic-to-Essay Generation with External Commonsense Knowledge
+Incorporating Context and External Knowledge for Pronoun Coreference Resolution
+Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning
+Distilling Knowledge for Search-based Structured Prediction
+Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition
+Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks
+Joint Type Inference on Entities and Relations via Graph Convolutional Networks
+Duality of Link Prediction and Entailment Graph Induction
+WordNode2Vec: Graph-based Embedding of Words
